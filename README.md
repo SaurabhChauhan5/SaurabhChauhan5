@@ -1,8 +1,10 @@
 <!--
 **SaurabhChauhan5/SaurabhChauhan5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-<h1 align="center">Hi 👋, I'm Saurabh Chauhan</h1>
+<div align="center">
+<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/SaurabhChauhan5/SaurabhChauhan5/blob/main/Gif's/Hi.gif" width="30"></h1>
+</div>
+<h2 align="center">I'm Saurabh Chauhan</h2>
 <h3 align="center">A passionate learner from India</h3>
 
 - 🔭 I’m currently working on **web development**
