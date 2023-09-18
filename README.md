@@ -5,9 +5,9 @@
 <h2 align="center">I'm Saurabh Chauhan</h2>
 <h3 align="center">A passionate learner from India</h3>
 
-- 🔭 I’m currently working on **web development**
+- 🔭 I’m currently working on **DBMS**
 
-- 🌱 I’m currently learning **DBMS**
+- 🌱 I’m currently learning **web development**
 
 - 📫 How to reach me **saurabhchauhan2973@gmail.com**
 
